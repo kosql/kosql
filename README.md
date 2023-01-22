@@ -1,4 +1,5 @@
-![Kosql](logo.png)
+![Kosql](logo/logo-dark-mode.png#gh-dark-mode-only)
+![Kosql](logo/logo-light-mode.png#gh-light-mode-only)
 
 [![Version](https://img.shields.io/maven-central/v/org.kosql/kosql?logo=apache-maven&style=for-the-badge)](https://search.maven.org/artifact/org.kosql/kosql)
 [![GitHub Actions Status](<https://img.shields.io/github/actions/workflow/status/kosql/kosql/ci-actions-incremental.yml?branch=main&logo=GitHub&style=for-the-badge>)](https://github.com/kosql/kosql/actions)
