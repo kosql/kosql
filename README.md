@@ -9,4 +9,4 @@
 __Kosql is a powerful and elegant SQL library for [Kotlin](https://kotlinlang.org/) providing a higher-level abstraction over Java’s JDBC technology. Inspired by [Groovy-SQL].__
 
 
-[GroovySQL]: https://docs.groovy-lang.org/latest/html/documentation/sql-userguide.html
+[Groovy-SQL]: https://docs.groovy-lang.org/latest/html/documentation/sql-userguide.html
