@@ -12,6 +12,10 @@ class SqlTest {
 
     @Test
     fun test() {
+        Sql.withInstance("jdbc:") {
+            it.execute("insert into")
+        }
+
         val expected = 42
         assertEquals(expected, 42)
     }
