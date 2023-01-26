@@ -17,6 +17,10 @@ class Sql private constructor() : AutoCloseable {
 
     private val logger = Logger.getLogger(javaClass.name)
 
+    var resultSetType = ResultSet.TYPE_FORWARD_ONLY
+    var resultSetConcurrency = ResultSet.CONCUR_READ_ONLY
+    var resultSetHoldability = -1
+
     var dataSource: DataSource? = null
         private set
 
